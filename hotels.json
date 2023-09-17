@@ -1,6 +1,5 @@
 [
     { "label": "AMTD Versante Hotel", "value": "amtd_versante_hotel_bc" },
-    { "label": "Auberge Québec", "value": "jaro_auberge_quebec" },
     { "label": "Best Western Plus Sands", "value": "best_western_plus_sands_bc" },
     { "label": "Best Western Premier Chateau Granville Hotel & Suites & Conf. Centre", "value": "best_western_premier_chateau_grandville_bc" },
     { "label": "Best Western Ville-Marie Montreal Hotel & Suites", "value": "best_western_ville_marie_montreal" },
@@ -15,20 +14,13 @@
     { "label": "Hampton Inn & Suites Edmonton West", "value": "hampton_inn_suites_edmonton_west_ab" },
     { "label": "Hôtel Clarion Pointe", "value": "clarion_pointe" },
     { "label": "Hôtel Expresso Montreal", "value": "hotel_expresso_mtl_qc" },
-    { "label": "Hôtel Palace Royal", "value": "jaro_palace_royal" },
-    { "label": "Hôtel Plaza Québec", "value": "jaro_plaza_quebec" },
-    { "label": "Hôtel Québec Inn – Aéroport de Québec", "value": "jaro_hotel_quebec" },
-    { "label": "Hôtel Must – Aéroport de Québec", "value": "jaro_must" },
-    { "label": "Hôtel Lindbergh (Place Laurier)", "value": "jaro_lindberg" },
     { "label": "Impéria Hotel & Suites - Boucherville", "value": "imperia_hotel_suites_boucherville_qc" },
     { "label": "Impéria Hotel & Suites - St-Eustache", "value": "imperia_hotel_suites_steustache_qc" },
     { "label": "Impéria Hotel & Suites - Terrebonne", "value": "imperia_hotel_suites_terrebonne_qc" },
-    { "label": "Les Suites Kaishi", "value": "lessuiteskaishi" },
     { "label": "One King West Hotel & Residence", "value": "one_king_west_hotel_residences" },
     { "label": "Quality Inn & Suites Victoriaville", "value": "quality_inn_suites_victoriaville" },
     { "label": "Radisson hôtel Montréal airport", "value": "radisson_montreal_airport" },
     { "label": "re Stays", "value": "restays" },
-    { "label": "Travelodge By Wyndham Montreal Centre", "value": "travelodge_montreal_centre" }
-
-    
+    { "label": "River Rock Inn Ontario", "value": "river_rock_inn_on" },
+    { "label": "Travelodge By Wyndham Montreal Centre", "value": "travelodge_montreal_centre" }   
 ]
