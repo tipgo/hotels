@@ -1,5 +1,6 @@
 [
     { "label": "AMTD Versante Hotel", "value": "amtd_versante_hotel_bc" },
+    { "label": "Hotel Aliance QC", "value": "AQFORTH" },
     { "label": "Best Western Plus Sands", "value": "best_western_plus_sands_bc" },
     { "label": "Best Western Premier Chateau Granville Hotel & Suites & Conf. Centre", "value": "best_western_premier_chateau_grandville_bc" },
     { "label": "Best Western Ville-Marie Montreal Hotel & Suites", "value": "best_western_ville_marie_montreal" },
