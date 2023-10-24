@@ -9,6 +9,7 @@
     { "label": "Comfort Inn Sherbrooke", "value": "confort_inn_sherbrooke_qc" },
     { "label": "Comfort Inn Suites", "value": "confort_inn_suites" },
     { "label": "Courtyard Edmonton West", "value": "cortyard_edmonton_west_ab" },
+      { "label": "Courtyard by Marriott Hamilton", "value": "cortyard_hamilton_on" },
     { "label": "Doubletree Par Hilton Aéroport de Montréal", "value": "doubletree_hilton_airport_montreal" },
     { "label": "Estrimont Suites & Spa", "value": "estrimont" },
     { "label": "Holiday Inn Express Vancouver-Metrotown", "value": "holiday_inn_express_metrotown_bc" },
