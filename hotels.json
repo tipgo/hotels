@@ -25,5 +25,6 @@
     { "label": "Residence Inn by Marriott Toronto Vaughan", "value": "residence_inn_marriot_on" },
     { "label": "re Stays", "value": "restays" },
     { "label": "River Rock Inn Ontario", "value": "river_rock_inn_on" },
+       { "label": "Super 8 Cochrane - Alberta", "value": "super8_cochraneca_ab" },
     { "label": "Travelodge By Wyndham Montreal Centre", "value": "travelodge_montreal_centre" }   
 ]
