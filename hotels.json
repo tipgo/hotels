@@ -4,6 +4,7 @@
     { "label": "Best Western Plus Morden - Manitoba", "value": "best_western_plus_morden_ca_mb" },
     { "label": "Best Western Plus Winkler - Manitoba", "value": "best_western_plus_winker_ca_mb" },
     { "label": "Best Western Premier Chateau Granville Hotel & Suites & Conf. Centre", "value": "best_western_premier_chateau_grandville_bc" },
+    { "label": "Best Western Plus Sands", "value": "best_western_plus_sands_bc" },
     { "label": "Best Western Ville-Marie Montreal Hotel & Suites", "value": "best_western_ville_marie_montreal" },
     { "label": "Comfort Hotel Niagara Falls - Ontario", "value": "confort_hotel_niagara_falls_ca_on" },
     { "label": "Comfort Inn Huntsville - Ontario", "value": "confort_inn_huntsville_ca_on" },
@@ -35,6 +36,7 @@
     { "label": "Radisson hôtel Montréal airport", "value": "radisson_montreal_airport" },
     { "label": "Residence Inn by Marriott Toronto Vaughan", "value": "residence_inn_marriot_on" },
     { "label": "re Stays", "value": "restays" },
+    { "label": "River Rock Inn Ontario", "value": "river_rock_inn_on" },
     { "label": "Super 8 Cochrane - Alberta", "value": "super8_cochraneca_ab" },
     { "label": "Super 8 Winnipeg East", "value": "super8_winnipeg_east_ca_mb" },
     { "label": "Travelodge By Wyndham Montreal Centre", "value": "travelodge_montreal_centre" }
