@@ -1,6 +1,7 @@
 [
     { "label": "AMTD Versante Hotel", "value": "amtd_versante_hotel_bc" },
     { "label": "Auberge Québec", "value": "jaro_auberge_quebec" },
+    { "label": "AZUR Legacy Collection Hotel", "value": "azur_legacy_collection_hotel_bc" },
     { "label": "Best Western Plus Morden - Manitoba", "value": "best_western_plus_morden_ca_mb" },
     { "label": "Best Western Plus Winkler - Manitoba", "value": "best_western_plus_winker_ca_mb" },
     { "label": "Best Western Premier Chateau Granville Hotel & Suites & Conf. Centre", "value": "best_western_premier_chateau_grandville_bc" },
